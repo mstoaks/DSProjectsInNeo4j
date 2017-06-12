@@ -1,0 +1,136 @@
+Internal ID,Project,Description,Related Program Code,SO,TI/CI/MI,Director,Internal Phase,Architect Partner,Project Manager,GSB Level Prioritization Relevance,Status (derived from internal Phase),Effort,Sponsoring School Area,Beneficiaries,Value To School - DS POV
+1384386,AB Testing,This project is on hold. We need to figure out how to handle on-hold projects.,,NA,CI,Raj,Concept,Adam,Judy Heng,No,Exploration,TBD,Marketing,Staff ,Low
+1393837,Account Life-Cycle Automation,"We currently have various scripts, in various places, various technologies, manage and execute by various people to provision resource and grant access to systems to GSB users.  (Too many various!)  Misha and I are looking into ways to improve this proces",,NA,MI,Tony,Pre-concept,Max,Phong,No,Exploration,Very Low,Digital Solutions,Staff ,TBD
+1473534,Accounts Receivable Enablement,Accounts Receivable Enablement,,SO 4 - SOEE,TI,Tony,Pre-concept,,,No,Exploration,TBD,Finance,Staff ,Medium
+1473535,Across Street Guide Expansion,Incorporate University academic offerings in course information - Across the Street Guide,,SO 1 - PSAE,TI,Tony,Pre-concept,,,No,Exploration,Low,MBA,Students ,Medium
+1473536,ACT Rewrite,Rewrite the ACT SF application for supportability,,SO 4 - SOEE,TI,Tony,Pre-concept,,,Yes,Exploration,Medium,Digital Solutions,Alumni ,Low
+1345013,Alfresco Sunset,This project is to retire Alfresco. It is coupled with Unified Search as that will be needed to address the search functionality lost by retiring Alfresco.,,SO 5 - CCV,TI,Raj,High Level Design,Max,Alpana Pande,No,Queued,Medium,Digital Solutions,Staff ,Medium
+1413683,Analytics Self Service Enablement,"Create program, processes, and technology components - to empower staff to draw insights by integrated analytics",,SO 5 - CCV,TI,Raj,Pre-concept,Adam,Laissa/Missy/Judy,No,Exploration,Low,Digital Solutions,Staff ,High
+1444395,AV Infrastructure Refresh & Renewal,,,SO 3 - FSTLE,TI,Rachel,Pre-concept,,Tim Colvin,Yes,Exploration,High,Faculty,Faculty Staff Students ,High
+1344108,Bastion Host/Utility Server,,,NA,MI,Tony,Delivery,Max,David Love,No,Active,Very Low,Digital Solutions,Staff ,Medium
+1226135,Business Architecture,"Project to capture activities of the architecture team not covered elsewhere.
+Architecture Web Site: 
+http://gsbarchitecture.stanford.edu",,SO 5 - CCV,TI,Raj,Delivery,Raj,Raj Nandamudi,No,Active,TBD,Digital Solutions,Staff Students Public Faculty External-customers Alumni ,High
+1473537,Career Pathways,"Create personalized, interactive career exploration platform, integrating multiple internal data sources (Alumni data, employment history, course enrollments, compensation data, industry trends etc).   ......Notes column from Project by School Area sheet: Create a view that unifies data currently either fragmented or unavailable.",,SO 1 - PSAE,TI,Raj,Pre-concept,,,No,Exploration,TBD,CMC,Students ,High
+1496313,CEMEX Audio and Lighting Upgrade,,,NA,,Rachel,Pre-concept,Adam,Tim Colvin,TBD,Exploration,TBD,Digital Solutions,Faculty,TBD
+1473538,Certificate Program Alumni Engagement,Collaborate with programs to define alumni for certificate programs. Create lifelong identity for certificate alums.,,SO 1 - PSAE,TI,Tony,Pre-concept,,,Yes,Exploration,Medium,Exec Ed,External-customers ,Medium
+1418329,CI - Applications,1146645-6-AABMY,,NA,CI,Tony,Delivery,,Naveen,No,Active,TBD,Digital Solutions,Alumni External-customers Faculty Staff Students ,TBD
+1418307,CI - Client Support,1146645-2-AABMY,,NA,CI,Tony,Delivery,,Dave,No,Active,TBD,Digital Solutions,Students Staff Faculty ,TBD
+1418335,CI - Desktop Phones,1146645-10-AABMY,,NA,CI,Tony,Delivery,,,,Active,TBD,Digital Solutions,Staff ,TBD
+1418332,CI - Distance Education Support,1146645-9-AABMY,,NA,CI,Rachel,Delivery,,,,Active,TBD,Digital Solutions,TBD ,TBD
+1473606,CI - EICA,,,NA,CI,Raj,Delivery,,Naveen,No,Active,TBD,Digital Solutions,Alumni External-customers Faculty Staff Students ,TBD
+1418326,CI - Infrastructure Support,1146645-5-AABMY,,NA,CI,Tony,Delivery,,,,Active,TBD,Digital Solutions,Students Staff Public Faculty External-customers Alumni ,TBD
+1418319,CI - Instructional Tech Support,1146645-4-AABMY,,NA,CI,Rachel,Delivery,,,,Active,TBD,Digital Solutions,Faculty Students ,TBD
+1418331,CI - Online Education Support,1146645-8-AABMY,,NA,CI,Rachel,Delivery,,,,Active,TBD,Digital Solutions,Faculty Students ,TBD
+1418339,CI - Printing Support,1146645-12-AABMY,,NA,CI,Tony,Delivery,,,,Active,TBD,Digital Solutions,Students Staff Faculty ,TBD
+1418338,CI - Video Prod/Event Support,1146645-11-AABMY,,NA,CI,Rachel,Delivery,,,,Active,TBD,Digital Solutions,Faculty ,TBD
+1344106,Classroom Applications,,,SO 3 - FSTLE,TI,Rachel,Concept,Max,Pamela,No,Exploration,TBD,Digital Solutions,Faculty Staff Students ,Medium
+1444398,Classroom Management Applications - Seating Chart,,,SO 3 - FSTLE,TI,Rachel,Delivery,Max,Pamela Levine,Yes,Active,Medium,Faculty,Faculty Staff Students ,Medium
+1226150,Classroom Monitoring and Alerting,,,SO 3 - FSTLE,TI,Rachel,Delivery,Adam,Tim Colvin,No,Active,Low,Digital Solutions,Students Staff Faculty ,Medium
+1444390,Composite Learning Materials,Composite Learning Materials Creation with Faculty (10),,SO 3 - FSTLE,TI,Rachel,Pre-concept,,,No,Exploration,TBD,Faculty,Faculty Students ,High
+1473539,Composite Learning Materials: Crisis Text Line CEO (Rao),   ......Notes column from Project by School Area sheet: Partnership? Inkling?,1444390,SO 3 - FSTLE,TI,Rachel,Pre-concept,,,No,Exploration,Low,Faculty,Faculty Students ,Medium
+1473540,Composite Learning Materials: CSI Legal Structures V2 (Soule),,1444390,SO 3 - FSTLE,TI,Rachel,Pre-concept,,,No,Exploration,Low,Faculty,Faculty Students ,Medium
+1473541,Composite Learning Materials: Negotiation Interactives (Neale),,1444390,SO 3 - FSTLE,TI,Rachel,Pre-concept,,,Yes,Exploration,Medium,Faculty,Faculty Students ,High
+1473542,Composite Learning Materials: Power of Humor (Aaker),   ......Notes column from Project by School Area sheet: In partnership with CWO on Inkling,1444390,SO 3 - FSTLE,TI,Rachel,Pre-concept,,,No,Exploration,Low,Faculty,Faculty Students ,Medium
+1483720,Conferencing and Collaboration Pilot Spark and Jamboard,,,SO 4 - SOEE,TI,Rachel,Pre-concept,,,No,Exploration,Low,Digital Solutions,Faculty Staff Students ,Medium
+1444396,Conferencing and Collaboration Service and Support,Conferencing and Collaboration Services and Support,,SO 3 - FSTLE,TI,Rachel,Pre-concept,,,Yes,Exploration,TBD,Faculty,Faculty Staff Students ,Medium
+1473544,"Conferencing and Collaboration: WebEx, Zoom, Connect","Conferencing and Collaboration: Introduce WebEx, Zoom; Adobe Connect",,SO 4 - SOEE,TI,Rachel,Pre-concept,,,No,Exploration,Low,Digital Solutions,Faculty Staff Students ,Medium
+1239563,Connected Customer Journey,"Create meaningful connections with a broad global audience using Customer Relationship Management (CRM) & Automation to deliver personalized, data driven knowledge and communications. ",,SO 4 - SOEE,TI,Tony,Pitch,Adam,Tina Underwood,Yes,Queued,High,Marketing,Staff ,High
+1473545,Containerization,"Containerization: Shift custom-built applications, particularly those currently running on our Linux stack, to a containerized model for better isolation and deployment",,SO 4 - SOEE,TI,Tony,Pre-concept,,,Yes,Exploration,Medium,Digital Solutions,Faculty Staff Students ,Medium
+1226139,Course Planning System,,,SO 2 - FRCAE,TI,Tony,Delivery,Adam,Tina,No,Active,High,Academic Administration,Staff Faculty ,High
+1473546,Course Research,"Course Research: Deliver experience designed to maximize efficiency   ......Notes column from Project by School Area sheet: This is complex. Very, very wide diversity of needs and approaches to course research across 1000 strong student body.",,SO 1 - PSAE,TI,Raj,Pre-concept,,,No,Exploration,TBD,MBA,Students ,High
+1473547,Course Research: Enriched Information,"Course Research: Enrich information available to students - demand trends, switching patterns etc.   ......Notes column from Project by School Area sheet: Continued attempt to consolidate silos of information.",1473546,SO 1 - PSAE,TI,Raj,Pre-concept,,,Yes,Exploration,Medium,MBA,Students ,High
+1473548,Course Research: Sentiment Analysis,Course Research: Enhance by adding sentiment analysis for evaluation comments.   ......Notes column from Project by School Area sheet: Depends on enablement of text analytics platform.,1473546,SO 1 - PSAE,TI,Raj,Pre-concept,,,Yes,Exploration,Medium,MBA,Students ,High
+1473549,Datasets for Research,"Create a standard process for acquiring datasets, and a service for storing and disseminating these datasets for research purposes   ......Notes column from Project by School Area sheet: Also close partnership with Library",,SO 2 - FRCAE,TI,Tony,Pre-concept,,,No,Exploration,Low,CIRCLE,Staff Faculty ,Medium
+1473550,Datasync Overhaul,"Datasync Overhaul: Rationalize and rework our datasync processes   ......Notes column from Project by School Area sheet: Routine ongoing maintenance type activity.
+(DWL) I'd hardly describe datasync overhaul as ""routine!""  It's a fundamental foundational effort.",,SO 5 - CCV,TI,Raj,Pre-concept,,,No,Exploration,TBD,Digital Solutions,Faculty Staff Students ,Low
+1473551,Dean's Dashboard,Enhance the CRM platform to track activity and relationship information from lead to alum to build a 360° map of the stakeholders (Dean's Dashboard),,SO 4 - SOEE,TI,Tony,Pre-concept,,,Yes,Exploration,High,Digital Solutions,Staff ,High
+1409684,Disaster Recovery Isilon,,,NA,CI,Tony,Pre-concept,Max,Arun,No,Exploration,Very Low,Digital Solutions,Faculty ,Medium
+1377033,Drupal Hosting,,,NA,CI,Tony,Concept,Adam,Ayuta Padhi,No,Exploration,Very Low,Digital Solutions,Students Faculty Staff ,Low
+1226152,EMS 8.0 Upgrade,,,NA,MI,Tony,Delivery,Adam,Lisa,No,Active,Very Low,Facilities,Staff Students Faculty ,Low
+1473552,Enhance TAPS/FARES,Enhance TAPS/FARES,,SO 2 - FRCAE,TI,Tony,Pre-concept,,,Yes,Exploration,Medium,Academic Administration,Faculty Staff ,Medium
+1473524,Enterprise Data Warehouse,"Enhance Enterprise Data Warehouse to support quick analytics implementations, increase self service   ......Notes column from Project by School Area sheet: Well organized DW improves self service capabilities.",,SO 5 - CCV,TI,Raj,Pre-concept,,,TBD,Exploration,TBD,Digital Solutions,Staff ,Medium
+1226142,Enterprise Service Bus,Was API.GSB. Changed to be consistent with Project By School Area spreadsheet,,SO 5 - CCV,TI,Raj,Delivery,Adam,Adam Moore,No,Active,TBD,Digital Solutions,Faculty Staff Students ,Medium
+1413685,Faculty Administrative Dashboards,,,SO 2 - FRCAE,TI,Raj,Pre-concept,Adam,Judy/Missy/Aravind,Yes,Exploration,Medium,Faculty,Faculty ,Medium
+1473554,Faculty Area Assignment,Improve Faculty area assignment and faculty/FA assignment process,,SO 4 - SOEE,TI,Tony,Pre-concept,,,No,Exploration,Low,Faculty Support,Staff ,Low
+1473555,Faculty Information System - Dashboard,Faculty Information System (dashboard),,SO 2 - FRCAE,TI,Tony,Pre-concept,,,No,Exploration,Low,Academic Administration,Staff ,Medium
+1473556,Faculty Reports,Faculty Reports: Rationalize and migrate Faculty Reports to Salesforce,,SO 2 - FRCAE,TI,Tony,Pre-concept,,,Yes,Exploration,Medium,Academic Administration,Faculty ,Medium
+1473557,Faculty Research Cloud Capabilities,Expand faculty research capabilities by exploring Cloud offerings (such as Amazon Athena and Google BigQuery),,SO 2 - FRCAE,TI,Tony,Pre-concept,,,No,Exploration,Low,CIRCLE,Faculty ,Medium
+1473558,FARES/TAPS Impersonation,Impersonation for FARES/TAPS for faculty views,,SO 2 - FRCAE,TI,Tony,Pre-concept,,,No,Exploration,Low,Academic Administration,Staff ,Medium
+1444391,Flipped Management Foundations,,,SO 3 - FSTLE,TI,Rachel,Pre-concept,,,Yes,Exploration,High,Faculty,Faculty Students ,High
+1492598,Flypack,Video Flypack for students. Enables mobile video shoots.,,SO 1 - PSAE,TI,,Pre-concept,Max,Tim Colvin,No,Exploration,TBD,Digital Solutions,Students ,TBD
+1473559,Framework for Digital Story Telling and Interactive Learning Materials,Framework for Digital Story Telling and Interactive Learning Materials   ......Notes column from Project by School Area sheet: Inkling+?,,SO 3 - FSTLE,TI,Rachel,Pre-concept,,,Yes,Exploration,High,Digital Solutions,Faculty Students ,High
+1399486,General,Internal project used to track time not covered in a specific project or in the management project.,,NA,NA,NA,Delivery,NA,,,Active,TBD,Digital Solutions,TBD ,TBD
+1226137,GIP Application and Ignite Directory,This is the description of the GIP project.,,SO 4 - SOEE,TI,Tony,Delivery,Adam,Marlen Wells,No,Active,TBD,CIRCLE,TBD Faculty ,Low
+1226143,GSBgo,"Mobile application. First version will include deadlines, events, announcements management and room booking capabilities.",,SO 1 - PSAE,TI,Raj,Delivery,Max,Naveen,No,Active,High,MBA,Students ,High
+1473587,GSBgo V2,"GSBgo V2:  Augment information feed to include more sources - Career, Clubs, Class assignments",,SO 1 - PSAE,TI,Raj,Pre-concept,,,Yes,Exploration,High,MBA,Students ,Medium
+1473588,GSBgo V3,"GSBgo V3:  Enhance with audience appropriate micro moments (reserve room, view class allocation results, sign waivers, sign up for SGD",,SO 1 - PSAE,TI,Raj,Pre-concept,,,No,Exploration,TBD,MBA,Students ,Low
+1377039,Heatmap,,,NA,CI,Raj,Delivery,Adam,Judy Heng,,Active,TBD,Marketing,Public External-customers Students ,TBD
+1393934,Highly Immersive Classrooms,,,SO 3 - FSTLE,TI,Rachel,Pre-concept,Max,Rachel and Tim,Yes,Exploration,Low,Faculty,Faculty Staff Students ,High
+1419553,Identity Management Service,Implement an identity management service to support setting up authentication with internal and external users.,,SO 5 - CCV,TI,Raj,Pre-concept,Max,Adam Moore,No,Exploration,Medium,Digital Solutions,Faculty Staff Students External-customers ,Low
+1226136,Inkling: Rich Media Asset Creation,,,SO 5 - CCV,TI,Raj,Delivery,Max,Lisa,No,Active,Low,Case Writing,Students Staff Faculty ,High
+1473560,Instructional Design Model for Distributed Teaching and Learning,Instructional Design Model for Distributed Teaching and Learning,,SO 3 - FSTLE,TI,Rachel,Pre-concept,,,No,Exploration,TBD,Digital Solutions,Faculty Staff Students ,Medium
+1473561,LEAD Updates and Delivery,LEAD Updates and Delivery,,SO 3 - FSTLE,TI,Rachel,Pre-concept,,,No,Exploration,Medium,Exec Ed,External-customers ,Medium
+1444393,Learning Analytics,,,SO 3 - FSTLE,TI,Rachel,Pre-concept,Adam,John Thompson,No,Exploration,TBD,Faculty,Faculty Students ,Medium
+1473562,Learning Analytics: Management Foundation Evaluation,Learning Analytics: Management Foundation Evaluation,1444393,SO 3 - FSTLE,TI,Rachel,Pre-concept,,,No,Exploration,Medium,Digital Solutions,Faculty Students ,Medium
+1444388,Learning Management Systems,,,SO 3 - FSTLE,TI,Rachel,Pre-concept,,,,Exploration,TBD,Faculty,TBD ,TBD
+1444394,Learning Spaces of the Future/Rethinking the Classroom,,,SO 3 - FSTLE,TI,Rachel,Pre-concept,,,No,Exploration,TBD,Digital Solutions,Students Staff Faculty ,Medium
+1388484,Learning Spaces: Attendance Taking and Location Services,,1444394,SO 3 - FSTLE,TI,Rachel,Pre-concept,Max,Tim Colvin,Yes,Exploration,Medium,Faculty,Faculty Staff Students ,Medium
+1226147,Learning Spaces: Studio X,Project to build a state of the art remote learning environment.,1444394,SO 3 - FSTLE,TI,Rachel,Pre-concept,Max,Rachel,Yes,Exploration,High,Digital Solutions,Students Staff Faculty ,TBD
+1473563,Library Microsite,Create a library microsite,,SO 4 - SOEE,TI,Tony,Pre-concept,,,No,Exploration,Low,Library,Faculty Students ,Medium
+1473564,LMS Ecosystem,"LM Ecosystem (Respondus, NovoEd, Canvas Add-ons)",,SO 3 - FSTLE,TI,Rachel,Pre-concept,,,No,Exploration,TBD,MBA,Faculty Students ,Medium
+1473565,LMS Ecosystem: Canvas Bulk Download,,1473564,SO 3 - FSTLE,TI,Rachel,Pre-concept,,,No,Exploration,Low,MBA,Faculty Students ,Medium
+1473566,LMS Ecosystem: Kaltura Integration,LMS Ecosystem: Kaltura Integration for LeadLabs,1473564,SO 3 - FSTLE,TI,Rachel,Pre-concept,,,No,Exploration,Low,MBA,Faculty Students ,Medium
+1473567,LMS Ecosystem: NovoEd 2.0,LMS Ecosystem: NovoEd 2.0   ......Notes column from Project by School Area sheet: Required update with some valuable enhancements and better user experience,1473564,SO 3 - FSTLE,TI,Rachel,Pre-concept,,,No,Exploration,Low,Exec Ed,External-customers ,Medium
+1399485,Management,"An internal project to track general management hours including: 
+-People management
+-Relationship management",,NA,NA,NA,Delivery,NA,,,Active,TBD,Digital Solutions,TBD ,TBD
+1473568,Management Foundations Respin and Scale: Data and Decisions,Management Foundations Respin and Scale: Data and Decisions,,SO 3 - FSTLE,TI,Rachel,Pre-concept,TBD,,Yes,Exploration,Medium,MBA,Faculty Students ,Medium
+1473569,Management Foundations Respin and Scale: Managerial Finance,Management Foundations Respin and Scale: Managerial Finance,,SO 3 - FSTLE,TI,Rachel,Pre-concept,TBD,,Yes,Exploration,Medium,MBA,Faculty Students ,Medium
+1418347,MI - Applications,1146646-6-AABMY,,NA,MI,Tony,Delivery,NA,,No,Active,TBD,Digital Solutions,TBD ,TBD
+1418302,MI - Client Support,1146646-2-AABMY,,NA,MI,Tony,Delivery,NA,,No,Active,TBD,Digital Solutions,TBD ,TBD
+1447467,MI - Data Syncs,,,NA,MI,Raj,Delivery,NA,,No,Active,TBD,Digital Solutions,TBD ,TBD
+1418311,MI - Desktop Phones,1146646-10-AABMY,,NA,MI,Tony,Delivery,NA,,No,Active,TBD,Digital Solutions,TBD ,TBD
+1418310,MI - Distance Education Support,1146646-9-AABMY,,NA,MI,Rachel,Delivery,NA,,No,Active,TBD,Digital Solutions,TBD ,TBD
+1473610,MI - EICA,,,NA,MI,Raj,Delivery,NA,,No,Active,TBD,Digital Solutions,TBD ,TBD
+1418306,MI - Infrastructure Support,1146646-5-AABMY,,NA,MI,Tony,Delivery,NA,,No,Active,TBD,Digital Solutions,TBD ,TBD
+1418303,MI - Instructional Tech Support,1146646-4-AABMY,,NA,MI,Rachel,Delivery,NA,,No,Active,TBD,Digital Solutions,TBD ,TBD
+1418308,MI - Online Education Support,1146646-8-AABMY,,NA,MI,Rachel,Delivery,NA,,No,Active,TBD,Digital Solutions,TBD ,TBD
+1418315,MI - Printing Support,1146646-12-AABMY,,NA,MI,Tony,Delivery,NA,,,Active,TBD,Digital Solutions,TBD ,TBD
+1418313,MI - Video Prod/Event Support,1146646-11-AABMY,,NA,MI,Rachel,Delivery,NA,,No,Active,TBD,Digital Solutions,TBD ,TBD
+1473570,Mobile Alumni v1,"MobileAlumni v1: Create mobile focused web presence for MBA, MSx alumni, specific capabilities defined in collaboration with External Relations.",,SO 1 - PSAE,TI,Tony,Pre-concept,TBD,,Yes,Exploration,Medium,Digital Solutions,Alumni ,Medium
+1444392,Modular Micro Learning Journey Offerings,,,SO 3 - FSTLE,TI,Rachel,Pre-concept,TBD,,Yes,Exploration,High,Faculty,External-customers ,High
+1226151,Monitoring & Alerting,,,SO 5 - CCV,CI,Tony,,Max,"Phong, Ben and Misha",No,Active,Very Low,Digital Solutions,Students Staff Faculty ,Low
+1473572,MS Windows Research Service,"Compute: Provide a high-memory Windows-based research service, that includes licensed tools (potentially in the cloud)",,SO 2 - FRCAE,TI,Tony,Pre-concept,TBD,,No,Exploration,Low,CIRCLE,Faculty ,Low
+1365825,Multimedia Cases,Temp placeholder project. Needs archive.,,NA,,,Pre-concept,Max,Max Stoaks,,Exploration,TBD,Case Writing,TBD ,TBD
+1238484,MyGSB Enhancement,,,SO 1 - PSAE,TI,Tony,Pre-concept,Adam,Kim Serra,No,Exploration,Low,MBA,Faculty Staff Students ,Medium
+1473573,Non-degree Program Application Platform,"Custom App: Deliver a unified and common application, and decision platform for all Exec Ed and GIP programs",,SO 4 - SOEE,TI,Tony,Pre-concept,TBD,,No,Exploration,High,Exec Ed,Staff ,Medium
+1485498,On-prem Research Compute and Storage,,,SO 2 - FRCAE,TI,Tony,Pre-concept,TBD,,No,Exploration,Very Low,CIRCLE,Faculty ,Medium
+1384341,Operational Data Store,,,NA,CI,Raj,Pre-concept,Adam,Aravind Bhat,No,Exploration,Very Low,Digital Solutions,Staff ,Low
+1473574,Printing Service Improvement,"Improve printing services: modernize metered printing, expand its adoption, provide better mobile printing options",,SO 4 - SOEE,TI,Tony,Pre-concept,,,No,Exploration,Low,Digital Solutions,Students ,Low
+1349448,Project Development Process Tooling (10K),This is the 10000ft pilot.,,NA,CI,,Delivery,Max,Max,No,Active,Low,Digital Solutions,Staff ,Low
+1473575,Public Site Homepage,Redesign the home page of public website to match the new content strategy,,SO 4 - SOEE,TI,Tony,Pre-concept,,,No,Exploration,Medium,Marketing,Public ,Medium
+1473576,Public Web Site Enhancements,Improve and enhance public website to expand GSB brand and disseminate insights,,SO 4 - SOEE,TI,Tony,Pre-concept,,,No,Exploration,Medium,Marketing,Public ,Medium
+1473577,Review Module,Review Module for Exec Ed and Certificate programs,,SO 4 - SOEE,TI,Tony,Pre-concept,,,Yes,Exploration,High,Exec Ed,Staff ,Medium
+1411570,Room Wizard Replacement,,,SO 1 - PSAE,TI,Tony,Pre-concept,Adam,Kim Serra,No,Exploration,Low,Facilities,Faculty Staff Students ,Low
+1473578,Salesforce Communities,Salesforce Communities: Adopt next generation Salesforce platform,,SO 4 - SOEE,TI,Tony,Pre-concept,,,Yes,Exploration,High,Digital Solutions,Faculty Staff Students ,Medium
+1393838,Salesforce Docusign,Request from Marlen - they want to use Docusign with SF. SEED is primary client but need to confirm.,,NA,CI,Tony,Pre-concept,Adam,Marlen,No,Exploration,Very Low,SEED,Staff ,Low
+1226140,Salesforce Revamp,,,SO 4 - SOEE,TI,Tony,Schedule/Low Level Design,Adam,Eva Lo,No,Active,High,Digital Solutions,Students Staff Faculty ,High
+1226154,Scalable Compute for Faculty,,,SO 2 - FRCAE,TI,Tony,In Production,Adam,Arund,No,Active,Low,Faculty,Faculty ,TBD
+1473579,Seed Applications,Seed Applications,,SO 4 - SOEE,TI,Tony,Pre-concept,,,No,Exploration,Medium,SEED,External-customers ,Medium
+1444399,Seed Partner Location Technology,,,SO 3 - FSTLE,TI,Rachel,Pre-concept,,,No,Exploration,TBD,SEED,External-customers ,High
+1473580,Seed Partner Location Technology - Chennai,,,SO 3 - FSTLE,TI,Rachel,Pre-concept,,,No,Exploration,Low,SEED,External-customers ,High
+1444400,Seed Program Design,,,SO 3 - FSTLE,TI,Rachel,Pre-concept,,,No,Exploration,Low,SEED,External-customers ,Medium
+1377037,Semantic Analytics,,,NA,CI,Raj,Pre-concept,Adam,Laissa Lai,No,Exploration,Low,Digital Solutions,Students Staff Faculty ,TBD
+1226153,ServiceNow (Remedy replacement),,,NA,CI,Tony,Delivery,Max,Elisha,No,Active,Very Low,Digital Solutions,Students Staff Faculty ,Medium
+1444389,Simulations for Teaching,,,SO 3 - FSTLE,TI,Rachel,Pre-concept,,,No,Exploration,TBD,Faculty,Students Faculty ,High
+1473581,Simulations for Teaching: CALL Updates,Simulations for Teaching: CALL Updates and Distribution,,SO 3 - FSTLE,TI,Rachel,Pre-concept,,,No,Exploration,Low,Faculty,Students Faculty ,Medium
+1468849,Small Group Events,,,NA,CI,Tony,Pre-concept,Adam,Eva Lo,No,Exploration,Low,MBA,Students ,Medium
+1226145,Stanford Profiles (formerly CAP),,,SO 5 - CCV,TI,Raj,Delivery,Adam,Lisa,No,Active,Low,Digital Solutions,Faculty Students Staff ,High
+1473583,Storage,"Storage: Partner with UIT and internal DS partners to craft and implement a comprehensive storage strategy for the variety of needs at the GSB. Includes online, nearline, archiving, and data protection.",,SO 4 - SOEE,TI,Tony,Pre-concept,,,Yes,Exploration,Medium,Digital Solutions,Faculty Staff Students ,High
+1473584,Student Profile Report,Student Profile Report,,SO 4 - SOEE,TI,Tony,Pre-concept,,,No,Exploration,Low,MBA,Faculty Staff ,Medium
+1341980,Unified Search,This is the unified search project that builds on the POC done with Pragya.,,SO 5 - CCV,TI,Raj,High Level Design,Max,Alpana,Yes,Queued,Medium,Digital Solutions,Faculty Staff Students ,High
+1473585,Unified Search V2,Integrated Search v2: Replace GSA web search with Intelligent Search Platform (ISP),,SO 5 - CCV,TI,Raj,Pre-concept,,,Yes,Exploration,Medium,Digital Solutions,Staff Students Faculty ,TBD
+1344110,Unifying Source Control,,,NA,CI,Tony,Concept,Adam,Misha,No,Exploration,Low,Digital Solutions,Staff ,Low
+1473586,VIrtual Reality Learning Environment: Terf,Virtual Reality: Learning Environment in Terf (LEAD) ,,SO 3 - FSTLE,TI,Rachel,Pre-concept,,,No,Exploration,Medium,Exec Ed,External-customers ,Medium
+1444397,Virtual Reality Learning Environments,,,SO 3 - FSTLE,TI,Rachel,Pre-concept,,,No,Exploration,TBD,Exec Ed,External-customers ,Medium
