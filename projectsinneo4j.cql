@@ -1,3 +1,8 @@
+CREATE CONSTRAINT ON (p:Project) ASSERT p.id IS UNIQUE;
+CREATE CONSTRAINT ON (b:Beneficiary) ASSERT b.name IS UNIQUE;
+CREATE CONSTRAINT ON (s:Sponsor) ASSERT s.name IS UNIQUE;
+CREATE CONSTRAINT ON (so:StrategicObjective) ASSERT so.name IS UNIQUE;
+
 USING PERIODIC COMMIT
 LOAD CSV WITH HEADERS from "file:///AllData.csv" AS line WITH line, SPLIT(TRIM(line.Beneficiaries), " ") as benes
 UNWIND benes as bene
