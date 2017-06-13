@@ -1,3 +1,4 @@
+USING PERIODIC COMMIT
 LOAD CSV WITH HEADERS from "file:///AllData.csv" AS line WITH line, SPLIT(TRIM(line.Beneficiaries), " ") as benes
 UNWIND benes as bene
 MERGE (project:Project { id: toInteger(line.`Internal ID`) })
