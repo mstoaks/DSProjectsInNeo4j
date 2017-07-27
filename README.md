@@ -5,3 +5,5 @@
 - projectsinneo4j.cql is a script to populate a neo4j database
 
 - Run the script in cypher-shell (easier) or the browser (possible, but only one ; at a time)
+
+END OF FILE
